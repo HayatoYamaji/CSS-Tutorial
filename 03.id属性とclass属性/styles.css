@@ -1,3 +1,40 @@
 /* 6つのp要素に適用するスタイルを宣言 */
+p {
+    color: white;
+    background-color: blue;
+}
+
 
 /* 6つのli要素に適用するスタイルを宣言 */
+li {
+    font-size: 16px;
+}
+
+
+.yellow {
+    color: yellow;
+}
+
+.red {
+    color: red;
+}
+
+.blue {
+    color: blue;
+}
+
+.back-gray {
+    background-color: gray;
+}
+
+.back-green {
+    background-color: green;
+}
+
+.back-brown {
+    background-color: brown;
+}
+
+.size-12 {
+    font-size: 12px;
+}
